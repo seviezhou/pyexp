@@ -9,7 +9,11 @@ pyexp is an small tool written in python just for studying.
 Screenshots
 ----
 
-![Screenshot](https://raw.githubusercontent.com/SevieZhou/pyexp/master/image/1.png)
+![Screenshot](https://raw.githubusercontent.com/SevieZhou/pyexp/master/image/3.png)
+
+![Screenshot](https://raw.githubusercontent.com/SevieZhou/pyexp/master/image/4.png)
+
+![Screenshot](https://raw.githubusercontent.com/SevieZhou/pyexp/master/image/5.png)
 
 Usage
 ----
